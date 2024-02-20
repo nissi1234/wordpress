@@ -23,7 +23,7 @@ services:
       - WORDPRESS_DB_HOST=db
       - WORDPRESS_DB_USER=wordpress
       - WORDPRESS_DB_PASSWORD=wordpress
-      - WORDPRESS_DB_NAME=nishwanth
+      - WORDPRESS_DB_NAME=nishwanthraju
 volumes:
   db_data:
 
